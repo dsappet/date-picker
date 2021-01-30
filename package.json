@@ -1,8 +1,8 @@
 {
-  "name": "@duetds/date-picker",
-  "version": "1.2.0",
-  "description": "Duet Date Picker is an open source version of Duet Design System’s accessible date picker.",
-  "author": "LocalTapiola Services Ltd <duetdesignsystem@lahitapiola.fi>",
+  "name": "@geekify/date-picker",
+  "version": "1.2.1",
+  "description": "A fixed version of Duet Date Picker is an open source version of Duet Design System’s accessible date picker.",
+  "author": "dsappet@gmail.com - originally by LocalTapiola Services Ltd <duetdesignsystem@lahitapiola.fi>",
   "license": "MIT",
   "module": "dist/index.js",
   "es2015": "dist/esm/index.js",
